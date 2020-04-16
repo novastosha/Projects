@@ -1,0 +1,8 @@
+name: PluginMGR
+author: novastosha
+description: SafeReload only!
+version: 1.0.0
+main: dev.nova.PluginMGR.MainClass
+commands:
+    pluginmgr:
+        description: Thanks
